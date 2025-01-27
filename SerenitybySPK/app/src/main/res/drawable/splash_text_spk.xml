@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="24dp"
+    android:viewportWidth="120"
+    android:viewportHeight="24">
+    <text
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:text="Soch Pe Kharoch"
+        android:gravity="center"/>
+</vector> 
